@@ -40,7 +40,7 @@ BoardLens.exe
 
 macOS
 
-BoardLens.pkg
+BoardLens-temps.dmg
 
 🛠️ Built With
 Python
