@@ -9,46 +9,47 @@
 </p>
 
 <p align="center">
-  <b>Windows  • macOS </b>
+  <b>Windows • macOS</b>
 </p>
 
 ---
 
-##  What is BoardLens?
+## 🔎 What is BoardLens?
 
 BoardLens is a lightweight hardware information tool designed to make checking your computer's hardware and system information simple and easy.
 
-##  Features
+## ✨ Features
 
-*  Motherboard detection
-*  Motherboard manufacturer and model
-*  BIOS information and release date
-*  Operating system detection
-*  Hardware information
-*  Simple graphical interface
-*  Windows support
-*  macOS support
+* Motherboard detection
+* Motherboard manufacturer and model
+* BIOS information and release date
+* Operating system detection
+* Hardware information
+* Simple graphical interface
+* Windows support
+* macOS support
 
-##  How It Looks
+## 🖥️ How It Looks
 
 Here's BoardLens running on a computer:
 
-<!-- Replace the image below with your BoardLens screenshot -->
+<p align="center">
+  <img width="492" height="422" alt="BoardLens running" src="https://github.com/user-attachments/assets/f93025ba-9d19-4595-b403-60e2c7af80c2" />
+</p>
 
-<p align="center"> <img width="492" height="422" alt="BoardLens running" src="https://github.com/user-attachments/assets/f93025ba-9d19-4595-b403-60e2c7af80c2" /> </p>
+## 🚀 Latest Release: v0.5.3
 
-
-##  Latest Release: v0.5.2
-
-BoardLens v0.5.2 includes updated builds for Windows and macOS.
+BoardLens v0.5.3 includes updated Windows and macOS builds.
 
 ### 🪟 Windows
 
-Download the **BoardLens `.exe`** from the Releases page and run it directly.
+Download the **BoardLens `.exe`** from the [Releases](../../releases) page and run it directly.
 
-###  macOS
+### 🍎 macOS
 
-Download the **BoardLens `.dmg`**, open it, and move BoardLens to your Applications folder.
+Download the **BoardLens `.dmg`** from the [Releases](../../releases) page, open it, and move **BoardLens.app** to your Applications folder.
+
+The macOS build includes the custom BoardLens application icon.
 
 ## 🚀 Running From Source
 
@@ -68,11 +69,11 @@ python3 main.py
 
 ## 🖥️ Supported Platforms
 
-| Platform   | Support    |
-| ---------- | ---------- |
-|  Windows | Has Support |
-|  macOS   | Has Support |
-|  Linux   |   Planned    |
+| Platform | Support |
+| --- | --- |
+| Windows | Has Support |
+| macOS | Has Support |
+| Linux | Planned |
 
 ## 📜 License
 
@@ -80,7 +81,7 @@ See the `LICENSE` file for license information.
 
 ---
 
-**Current version: v0.5.2**
+**Current version: v0.5.3**
 
 Made with ❤️ and Python.
 
