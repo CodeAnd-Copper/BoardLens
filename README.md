@@ -1,5 +1,7 @@
 <p align="center">
-  <img width="182" height="180" alt="BoardLens Icon" src="https://github.com/user-attachments/assets/932f87b0-4290-4870-bedb-b17526a5d932" />
+  <img width="207" height="207" alt="Windows BoardLens Icon" src="https://github.com/user-attachments/assets/402ba4c1-7024-4d56-8f74-33cbef7960a5" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="182" height="180" alt="macOS BoardLens Icon" src="https://github.com/user-attachments/assets/932f87b0-4290-4870-bedb-b17526a5d932" />
 </p>
 
 <h1 align="center">BoardLens</h1>
@@ -31,27 +33,35 @@ BoardLens is a lightweight hardware information tool designed to make checking y
 
 ## 🖥️ How It Looks
 
-Here's BoardLens running on a computer:
+Here's BoardLens running on a computer
+
+Windows:
 
 <p align="center">
   <img width="492" height="422" alt="BoardLens running" src="https://github.com/user-attachments/assets/f93025ba-9d19-4595-b403-60e2c7af80c2" />
+</p>
+
+macOS:
+
+<p align="center">
+  <img width="665" height="692" alt="macOS BoardLens Screenshot" src="https://github.com/user-attachments/assets/8afaa3da-e9d8-431e-854b-761d1af4d81d" />
 </p>
 
 ## 🚀 Latest Release: v0.5.3
 
 BoardLens v0.5.3 includes updated Windows and macOS builds.
 
-### 🪟 Windows
+###  Windows
 
 Download the **BoardLens `.exe`** from the [Releases](../../releases) page and run it directly.
 
-### 🍎 macOS
+###  macOS
 
 Download the **BoardLens `.dmg`** from the [Releases](../../releases) page, open it, and move **BoardLens.app** to your Applications folder.
 
 The macOS build includes the custom BoardLens application icon.
 
-## 🚀 Running From Source
+##  Running From Source
 
 Make sure Python is installed.
 
