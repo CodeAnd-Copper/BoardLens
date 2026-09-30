@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>Windows • macOS</b>
+  <b>Windows • macOS • Linux</b>
 </p>
 
 ---
@@ -30,6 +30,7 @@ BoardLens is a lightweight hardware information tool designed to make checking y
 * Simple graphical interface
 * Windows support
 * macOS support
+* Linux support
 
 ## 🖥️ How It Looks
 
@@ -47,31 +48,25 @@ macOS:
   <img width="665" height="692" alt="macOS BoardLens Screenshot" src="https://github.com/user-attachments/assets/8afaa3da-e9d8-431e-854b-761d1af4d81d" />
 </p>
 
-## 🚀 Latest Release: v0.5.3
+## 🚀 Latest Release: v0.5.4
 
-BoardLens v0.5.3 includes updated Windows and macOS builds.
+BoardLens v0.5.4 is the latest release and includes updated Windows and macOS builds, along with Linux support from source.
 
-###  Windows
+### Windows
 
 Download the **BoardLens `.exe`** from the [Releases](../../releases) page and run it directly.
 
-###  macOS
+### macOS
 
 Download the **BoardLens `.dmg`** from the [Releases](../../releases) page, open it, and move **BoardLens.app** to your Applications folder.
 
 The macOS build includes the custom BoardLens application icon.
 
-##  Running From Source
+### Linux
 
-Make sure Python is installed.
+Linux is currently supported **from source**.
 
-### Windows
-
-```bash
-python main.py
-```
-
-### macOS
+Make sure Python is installed, then run:
 
 ```bash
 python3 main.py
@@ -79,11 +74,11 @@ python3 main.py
 
 ## 🖥️ Supported Platforms
 
-| Platform | Support |
-| --- | --- |
-| Windows | Has Support |
-| macOS | Has Support |
-| Linux | Planned |
+| Platform | Support | Distribution |
+| --- | --- | --- |
+| Windows | Has Support | `.exe` |
+| macOS | Has Support | `.dmg` |
+| Linux | Has Support | Source |
 
 ## 📜 License
 
@@ -91,7 +86,7 @@ See the `LICENSE` file for license information.
 
 ---
 
-**Current version: v0.5.3**
+**Current version: v0.5.4**
 
 Made with ❤️ and Python.
 
