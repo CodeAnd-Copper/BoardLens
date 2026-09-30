@@ -40,7 +40,8 @@ def run_command(command):
             command,
             capture_output=True,
             text=True,
-            timeout=10
+            timeout=10,
+            creationflags=subprocess.CREATE_NO_WINDOW if platform.system() == "Windows" else 0
         )
 
         if result.returncode == 0:
