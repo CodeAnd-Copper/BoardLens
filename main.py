@@ -25,10 +25,8 @@ if getattr(sys, "frozen", False):
 else:
     BASE_DIR = Path(__file__).resolve().parent
 
-ASSETS_DIR = BASE_DIR / "Assets"
-
-WINDOWS_ICON = ASSETS_DIR / "boardlens.ico"
-MACOS_ICON = ASSETS_DIR / "BoardLens.icns"
+WINDOWS_ICON = BASE_DIR / "boardlens.ico"
+MACOS_ICON = BASE_DIR / "BoardLens.icns"
 
 
 # ------------------------------------------------------------
