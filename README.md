@@ -39,14 +39,23 @@ Here's BoardLens running on a computer
 Windows:
 
 <p align="center">
-  <img width="492" height="422" alt="BoardLens running" src="https://github.com/user-attachments/assets/f93025ba-9d19-4595-b403-60e2c7af80c2" />
-</p>
+  <img width="971" height="1022" alt="Screenshot 2026-10-03 103241" src="https://github.com/user-attachments/assets/d9bab95f-a40d-4846-8455-01e5f69863a9" />
+</p> 
+
 
 macOS:
 
 <p align="center">
-  <img width="665" height="692" alt="macOS BoardLens Screenshot" src="https://github.com/user-attachments/assets/8afaa3da-e9d8-431e-854b-761d1af4d81d" />
+  <img width="663" height="695" alt="Screenshot 2026-09-30 at 11 54 44 AM" src="https://github.com/user-attachments/assets/cc78f0a0-60ad-4083-94f7-69b9fbcb7aeb" />
+</p> 
+
+  
+Linux (Debian 13 Screen Shot):
+
+<p align="center">
+  <img width="490" height="558" alt="Screenshot From 2026-10-02 15-08-10" src="https://github.com/user-attachments/assets/2ded4d51-6ec0-442d-a076-cfb7758e70cc" />
 </p>
+
 
 ## 🚀 Latest Release: v0.5.4
 
