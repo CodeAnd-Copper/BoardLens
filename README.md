@@ -16,11 +16,11 @@
 
 ---
 
-## 🔎 What is BoardLens?
+##  What is BoardLens?
 
 BoardLens is a lightweight hardware information tool designed to make checking your computer's hardware and system information simple and easy.
 
-## ✨ Features
+##  Features
 
 * Motherboard detection
 * Motherboard manufacturer and model
@@ -32,7 +32,7 @@ BoardLens is a lightweight hardware information tool designed to make checking y
 * macOS support
 * Linux support
 
-## 🖥️ How It Looks
+##  How It Looks
 
 Here's BoardLens running on a computer
 
@@ -57,7 +57,7 @@ Linux (Debian 13 Screen Shot):
 </p>
 
 
-## 🚀 Latest Release: v0.5.4
+##  Latest Release: v0.5.4
 
 BoardLens v0.5.4 is the latest release and includes updated Windows and macOS builds, along with Linux support from source.
 
@@ -81,7 +81,7 @@ Make sure Python is installed, then run:
 python3 main.py
 ```
 
-## 🖥️ Supported Platforms
+##  Supported Platforms
 
 | Platform | Support | Distribution |
 | --- | --- | --- |
@@ -89,7 +89,7 @@ python3 main.py
 | macOS | Has Support | `.dmg` |
 | Linux | Has Support | Source |
 
-## 📜 License
+##  License
 
 See the `LICENSE` file for license information.
 
