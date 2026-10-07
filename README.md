@@ -7,7 +7,7 @@
 <h1 align="center">BoardLens</h1>
 
 <p align="center">
-  A lightweight hardware information tool 🔍
+  A lightweight hardware information tool 
 </p>
 
 <p align="center">
